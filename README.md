@@ -5,6 +5,7 @@ created a ping pong name
 #test as you go (step by step)
 import turtle
 
+#created window object
 wn = turtle.Screen()
 wn.title("Dave's Ping Pong Game")
 wn.bgcolor("black")
